@@ -7,7 +7,7 @@ overview (klik titel movie overview akan muncul)
 login session klik login 
 jika berhasil login muncul WElcome to...
 
-maaf tidak ada tambahan firut hanya sesiu yang di milestone
+maaf tidak ada tambahan fitur hanya sesuai yang di milestone
 
 
 Daftar library yang digunakan
