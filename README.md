@@ -21,3 +21,6 @@ Daftar library yang digunakan
         "react-scripts": "5.0.1",
         "web-vitals": "^2.1.4",
         "yup": "^1.1.1"
+
+![image](https://user-images.githubusercontent.com/126928734/233135036-a6a0e6b7-82fc-4825-8b2c-4a6fd0811a40.png)
+![image](https://user-images.githubusercontent.com/126928734/233135253-b8310c60-6784-415f-bf33-8a825ee5b811.png)
