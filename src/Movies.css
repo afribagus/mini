@@ -1,0 +1,28 @@
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  padding: 16px;
+}
+
+.movie-card {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  text-align: center;
+  width: 300px;
+  transition: transform 0.3s;
+}
+
+.movie-card:hover {
+  transform: translateY(-10px);
+}
+
+.movie-card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 16px;
+  border-radius: 5px;
+}
